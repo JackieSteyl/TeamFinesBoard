@@ -1,0 +1,129 @@
+body {
+  font-family: "Roboto", "Helvetica", cursive;
+  background: url(../img/background-6.jpg);
+  font-size: 14px;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  color: #ffffff;
+  background-position: top;
+  background-size: cover;
+  overflow: hidden;
+  /* #root element */
+}
+body #root {
+  width: 100%;
+  height: 100%;
+  position: inherit;
+  overflow: auto;
+}
+body #root .app {
+  padding-bottom: 20px;
+}
+body #root .btn {
+  background: #3c75d1;
+  color: #ffffff;
+  transition: 0.2;
+}
+body #root .btn:hover {
+  background: #1e4fb2;
+  color: #ffffff;
+  transition: 0.2;
+}
+body #root .btn i.left {
+  margin-right: 5px;
+  color: #ffffff;
+}
+body #root .btn i.right {
+  margin-left: 5px;
+  color: #ffffff;
+}
+body #root .app-footer {
+  color: #999999;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+.login-container {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+.login-container .login-header {
+  color: #ffffff;
+  margin-top: 7%;
+  text-shadow: 0 5px 5px #3c75d1;
+}
+.login-container .login-card {
+  background: #ffffff;
+  width: 25%;
+  margin: 0 auto;
+  border-radius: 5px;
+  border-top: 3px solid #1e4fb2;
+  border-bottom: 3px solid #2b3a63;
+  box-shadow: 0 3px 3px #999999;
+  color: #2b3a63;
+  padding: 20px;
+  text-align: left;
+}
+.login-container .login-card .icon {
+  color: #1e4fb2;
+  font-size: 30px;
+  margin-top: -15px;
+}
+.login-container .login-card form {
+  padding: 20px;
+}
+.home-container {
+  position: relative;
+  z-index: 1;
+}
+.home-container h3 {
+  color: #ffffff;
+}
+.home-container p,
+.home-container ul {
+  color: #eeeeee;
+}
+.home-container .list {
+  padding-top: 15px;
+}
+.home-container .list ul {
+  list-style: none;
+}
+.home-container .list ul li {
+  background: rgba(43, 58, 99, 0.7);
+  padding: 15px;
+  border-bottom: 1px solid #1e4fb2;
+  cursor: pointer;
+}
+.home-container .list ul li .fine {
+  color: #f0ad4e;
+}
+.home-container .list ul li .reasons {
+  padding-top: 15px;
+}
+.home-container .list ul li .reason-holder {
+  border-top: 1px solid #3e90e8;
+  padding: 10px;
+}
+.home-container .list ul li .reason-holder .num {
+  color: #ffffff;
+}
+.home-container .list ul li .reason-holder .time {
+  color: #3e90e8;
+}
+.home-container .list ul li .reason-holder .text {
+  color: #ffffff;
+  padding-left: 20px;
+}
+.home-container .list ul li:hover {
+  background: rgba(17, 17, 17, 0.7);
+}
+.add-container {
+  color: #ffffff;
+}

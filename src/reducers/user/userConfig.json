@@ -1,0 +1,71 @@
+{"users": [{
+    "username": "AFSHIN",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "ADRIAN",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "ALESSANDRO",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "CLYDE",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "DILLAN",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "JACKIE",
+    "password": "blueteam",
+    "permission": 1
+  },
+  {
+    "username": "JASON",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "JORDAN",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "KELLY",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "LONWABO",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "LORENZO",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "MARGARET",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "RUDOLPH",
+    "password": "blueteam",
+    "permission": 0
+  },
+  {
+    "username": "STEPHANUS",
+    "password": "blueteam",
+    "permission": 0
+  }
+]}
